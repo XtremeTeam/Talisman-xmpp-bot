@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/talisman/!svn/ver/78/trunk/static
+END
+tlds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/talisman/!svn/ver/76/trunk/static/tlds.txt
+END
+delirium.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/talisman/!svn/ver/78/trunk/static/delirium.txt
+END
+weather.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/talisman/!svn/ver/76/trunk/static/weather.txt
+END
+zodsigns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/talisman/!svn/ver/76/trunk/static/zodsigns.txt
+END

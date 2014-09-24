@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/__init__.py
+END
+protocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/protocol.py
+END
+commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/commands.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/auth.py
+END
+simplexml.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/simplexml.py
+END
+roster.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/roster.py
+END
+features.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/features.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/client.py
+END
+transports.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/transports.py
+END
+session.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/session.py
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/browser.py
+END
+filetransfer.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/filetransfer.py
+END
+jep0106.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/jep0106.py
+END
+dispatcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/dispatcher.py
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/talisman/!svn/ver/76/trunk/modules/xmpp/debug.py
+END

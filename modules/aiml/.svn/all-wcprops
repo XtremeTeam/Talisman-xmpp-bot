@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/50/trunk/modules/aiml
+END
+AimlParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/50/trunk/modules/aiml/AimlParser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/50/trunk/modules/aiml/__init__.py
+END
+Kernel.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/50/trunk/modules/aiml/Kernel.py
+END
+Utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/50/trunk/modules/aiml/Utils.py
+END
+self-test.aiml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/50/trunk/modules/aiml/self-test.aiml
+END
+DefaultSubs.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/50/trunk/modules/aiml/DefaultSubs.py
+END
+PatternMgr.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/50/trunk/modules/aiml/PatternMgr.py
+END
+WordSub.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/50/trunk/modules/aiml/WordSub.py
+END

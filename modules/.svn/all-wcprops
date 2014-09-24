@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/talisman/!svn/ver/76/trunk/modules
+END
+google.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/talisman/!svn/ver/76/trunk/modules/google.py
+END
+googlekey.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/talisman/!svn/ver/76/trunk/modules/googlekey.txt
+END
+weather.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/talisman/!svn/ver/76/trunk/modules/weather.py
+END
+pymetar.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/talisman/!svn/ver/76/trunk/modules/pymetar.py
+END
+SOAP.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/talisman/!svn/ver/76/trunk/modules/SOAP.py
+END
+macros.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/talisman/!svn/ver/76/trunk/modules/macros.py
+END
